@@ -2,4 +2,10 @@ body{
     padding: 50px;
     color: aquamarine;
     font: 3em;
+    margin: 30px;
+}
+
+h1{
+    color: red;
+    border: 2px green solid;
 }
