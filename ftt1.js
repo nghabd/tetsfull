@@ -1,0 +1,1 @@
+alert('ftt1 file')
